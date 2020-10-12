@@ -1,1 +1,1 @@
-This is a classification model trained on this https://www.kaggle.com/tatianasnwrt/russian-handwritten-letters dataset.
+A classification model trained on this https://www.kaggle.com/tatianasnwrt/russian-handwritten-letters dataset.
